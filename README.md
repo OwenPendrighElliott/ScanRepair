@@ -2,7 +2,7 @@
 
 Repairing bad scans of music and text using a convolutional autoencoder.
 
-[My article in this project](https://www.linkedin.com/pulse/convnet-autoencoder-scan-cleaning-owen-elliott/)
+[My article on this project](https://www.linkedin.com/pulse/convnet-autoencoder-scan-cleaning-owen-elliott/)
 
 ## PrepareData.ipynb
 
